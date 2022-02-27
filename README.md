@@ -6,7 +6,7 @@ Vademecum extracted from Clean Code, divided by chapters.
 Chapters List:
 
 * [Chapter 1: Clean Code.md](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%201:%20Clean%20Code.md)
-* Chapter 2: Meaningful Names
+* [Chapter 2: Meaningful Names](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%202:%20Meaningful%20Names.md)
 * Chapter 3: Functions
 * Chapter 4: Comments
 * Chapter 5: Formatting
