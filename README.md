@@ -14,7 +14,7 @@ Chapters List:
 - Chapter 6: Objects and Data Structures
 - Chapter 7: Error Handling
 - Chapter 8: Boundaries
-- Chapter 9: Unit Tests
+- [Chapter 9: Unit Tests](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%209:%20Unit%20Tests.md)
 - Chapter 10: Classes
 - Chapter 11: Systems
 - Chapter 12: Emergence
