@@ -15,7 +15,7 @@ Chapters List:
 - Chapter 7: Error Handling
 - Chapter 8: Boundaries
 - [Chapter 9: Unit Tests](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%209:%20Unit%20Tests.md)
-- Chapter 10: Classes
+- [Chapter 10: Classes](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%2010:%20Classes.md)
 - Chapter 11: Systems
 - Chapter 12: Emergence
 - Chapter 13: Concurrency
