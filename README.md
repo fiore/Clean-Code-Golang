@@ -9,7 +9,7 @@ Chapters List:
 - [Chapter 1: Clean Code.md](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%201:%20Clean%20Code.md)
 - [Chapter 2: Meaningful Names](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%202:%20Meaningful%20Names.md)
 - [Chapter 3: Functions](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%203:%20Functions.md)
-- Chapter 4: Comments
+- [Chapter 4: Comments](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%204:%20Comments.md)
 - Chapter 5: Formatting
 - Chapter 6: Objects and Data Structures
 - Chapter 7: Error Handling
