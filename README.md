@@ -13,7 +13,7 @@ Chapters List:
 - Chapter 5: Formatting
 - [Chapter 6: Objects and Data Structures](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%206:%20Objects%20and%20Data%20Structures.md)
 - Chapter 7: Error Handling
-- Chapter 8: Boundaries 
+- [Chapter 8: Boundaries](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%208:%20Boundaries.md)
 - [Chapter 9: Unit Tests](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%209:%20Unit%20Tests.md)
 - [Chapter 10: Classes](https://github.com/fiore/Clean-Code-Golang/blob/main/Chapter%2010:%20Classes.md)
 - Chapter 11: Systems
